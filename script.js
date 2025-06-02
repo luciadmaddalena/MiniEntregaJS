@@ -1,5 +1,5 @@
 function evaluarFormulario() {
-      const form = document.forms['formulario-guardia'];
+      const form = document.forms['formularioGuardia'];
       let irAGuardia = false;
 
       // Verificar sección de signos de alarma
