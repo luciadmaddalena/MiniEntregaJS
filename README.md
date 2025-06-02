@@ -12,7 +12,7 @@ En nuestro proyecto, nos serviría una función para analizar respuestas sobre s
 ¿Cómo funciona la función?
 - Primero, agarramos el formulario del documento HTML que tiene el nombre "formulario" y lo guardo en una variable:
 
-const form = document.forms['formulario-guardia'];
+const form = document.forms['formularioGuardia'];
 
 - Luego, creamos una variable que al principio está en "falso", o sea, asumimos que la persona no necesita ir a la guardia. Salvo que detectemos lo contrario.
 
